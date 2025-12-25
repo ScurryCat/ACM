@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"/Users/v/ACM/Contests/XX/25-12-10/K.cpp","tests":[{"id":1765363069931,"input":"3 3\n1 2 4\n2 3 4\n1 3 10","output":"5"},{"id":1765366822842,"input":"4 4\n1 2 1\n2 4 1\n1 3 100\n3 4 100","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/v/ACM/Contests/XX/25-12-10/K.cpp","group":"local","local":true}

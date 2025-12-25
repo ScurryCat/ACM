@@ -1,0 +1,1 @@
+{"name":"Local: 小林旅行","url":"/Users/v/ACM/Training/LG/小林旅行.cpp","tests":[{"id":1763881087581,"input":"5 6 3\n1 2 2\n2 5 5\n2 3 4\n1 4 1\n4 3 3\n3 5 1","output":"1 4 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/v/ACM/Training/LG/小林旅行.cpp","group":"local","local":true}

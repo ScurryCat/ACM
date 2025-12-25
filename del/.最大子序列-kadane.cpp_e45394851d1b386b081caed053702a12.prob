@@ -1,0 +1,1 @@
+{"name":"Local: 最大子序列-kadane","url":"/Users/v/ACM/Notes/动态规划/最大子序列-kadane.cpp","tests":[{"id":1764435968783,"input":"7\n2 -4 3 -1 2 -4 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/v/ACM/Notes/动态规划/最大子序列-kadane.cpp","group":"local","local":true}

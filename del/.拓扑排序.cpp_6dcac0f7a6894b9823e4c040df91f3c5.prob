@@ -1,0 +1,1 @@
+{"name":"Local: 拓扑排序","url":"/Users/v/ACM/Notes/图论/拓扑排序.cpp","tests":[{"id":1760938866673,"input":"7 8\n2 1\n2 7\n3 1\n3 5\n1 7\n5 6\n7 6\n7 4","output":""},{"id":1760939294925,"input":"3 3\n1 2\n2 3\n3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/v/ACM/Notes/图论/拓扑排序.cpp","group":"local","local":true}

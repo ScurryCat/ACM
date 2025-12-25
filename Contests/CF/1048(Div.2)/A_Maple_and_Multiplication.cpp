@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define INF 0x7FFFFFFF
+#define SUP 0x80000000
+
+typedef long long ll;
+typedef unsigned long long ull;
+
+const int N = 1e5+9;
+const int M = 2e5+9;
+const int mod = 998244353;
+
+int n,m,ans;
+
+void solve(){
+	cin>>n>>m;
+  if(n==m) cout<<"0\n";
+  else{
+    if(n%m==0||m%n==0) cout<<"1\n";
+    else cout<<"2\n";
+  }
+}
+
+int main(){
+	ios::sync_with_stdio(0);
+	cin.tie(0);cout.tie(0);
+
+	int T = 1;
+	cin>>T;
+	while(T--) solve();
+	return 0;
+}

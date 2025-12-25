@@ -1,0 +1,1 @@
+{"name":"Local: 最小生成树-Prim","url":"/Users/v/ACM/Notes/图论/最小生成树-Prim.cpp","tests":[{"id":1763290033672,"input":"8 14\na b 4\na c 3\nb c 5\nb d 5\nb e 9\nc d 5\nc h 5\nd e 7\nd f 6\nd g 5\nd h 4\ne f 3\nf g 2\ng h 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/v/ACM/Notes/图论/最小生成树-Prim.cpp","group":"local","local":true}
